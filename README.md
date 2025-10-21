@@ -1,4 +1,7 @@
 # Carbone - Concessionnaire de voitures sportives
+[![License: Carbone](https://img.shields.io/badge/License-Carbone-1f1f1f?style=for-the-badge&labelColor=0a0a0a)](LICENSE)
+
+
 
 
 > [English version below](#english-version)
@@ -28,6 +31,9 @@ Il a été conçu et développé par **Jean-Baptiste Dave Sendy** et **Milongo S
 ##  English Version
 
 # Carbone — Sports Car Dealership
+[![License: Carbone](https://img.shields.io/badge/License-Carbone-1f1f1f?style=for-the-badge&labelColor=0a0a0a)](LICENSE)
+
+
 
 ## Context
 
